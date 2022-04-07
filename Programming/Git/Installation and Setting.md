@@ -38,5 +38,8 @@ User information:
 |Editor|`git config --global core.editor "gedit"`|
 |Code Highlighting|`git config --global color.ui auto`|
 
+## Private Email
+The email in the config will be recorded in the commit history and used by Github to identify the commit user. This information will be available to anyone with access to the repository. To keep email address private, Github provides `no-reply` email in the form of `ID+username@users.noreply.github.com`. This information can be found in `Settings/Access/Email` tabs. See [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address).
+
 # Help
 The information here is not meant to be exhaustive. `git` has an official book [here](https://git-scm.com/book/en/v2).
