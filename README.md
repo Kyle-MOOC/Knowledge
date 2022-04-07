@@ -5,6 +5,7 @@ This repository is dedicated to consolidating knowledge for the following.
     - Git
     - Python
     - R
+    - Bash
     - SQL
 - Mathematics
     - Fundamental
@@ -13,3 +14,5 @@ This repository is dedicated to consolidating knowledge for the following.
     - Linear Algebra
     - Abstract Algebra
     - Statistics
+- Markup Language
+    - Latex
