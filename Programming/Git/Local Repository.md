@@ -5,7 +5,7 @@ To start `git` version control, simply navigate to the directory and initialize 
 git init
 ```
 
-Then, `git` will create a repository[^1] and start tracking changes in that particular directory. Now, the directory can be separated into 3 section:
+Then, `git` will create a repository[^1] and start tracking changes in that particular directory. Now, the directory can be separated into 3 sections:
 - Working directory - Space containing tracked and untracked changes
 - Staging area - Space containing tracked changes to be committed
 - Repository - Space containing all the snapshot
