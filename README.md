@@ -2,7 +2,7 @@
 This repository is dedicated to consolidating knowledge for the following.
 
 - Programming
-    - Git
+    - [Git](Programming/Git/README.md)
     - Python
     - R
     - Bash
