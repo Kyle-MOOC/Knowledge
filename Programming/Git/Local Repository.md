@@ -33,7 +33,7 @@ git status
 ```
 
 ## `.gitignore`
-There are log files or automatically generated files that might not be interested in tracking. It will however be tedious to exclude them everytime during staging. In such cases, a `.gitignore` file can be created in the root of `git` repository to ignore those files. `.gitignore` use glob pattern to exclude file, and each pattern is specified in a new line. A collection of `.gitignore` templates for programming languages can be found [here](https://github.com/github/gitignore).
+There are log files or automatically generated files that might not be interesting for tracking. It will however be tedious to exclude them everytime during staging. In such cases, a `.gitignore` file can be created in the root of `git` repository to ignore those files. `.gitignore` uses glob pattern to exclude files, and each pattern is specified in a new line. A collection of `.gitignore` templates for programming languages can be found [here](https://github.com/github/gitignore).
 
 ## Changes
 To get the changes (or differences) of a files:
@@ -44,7 +44,7 @@ To get the changes (or differences) of a files:
 |Staged|`git diff --stage`|
 
 ## Commit
-When a commit is done, all tracked changes in staging area will be included to produce a snapshot. To do so:
+When a commit is done, all tracked changes in the staging area will be included to produce a snapshot. To do so:
 
 |`command`|Description|
 |-|-|
