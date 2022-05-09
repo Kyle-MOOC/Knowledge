@@ -8,7 +8,7 @@ This repository is dedicated to consolidating knowledge for the following.
     - Bash
     - SQL
 - Mathematics
-    - Fundamental
+    - [Fundamental](Mathematics/Fundamental/README.md)
     - Calculus
     - Discrete Mathematics
     - Linear Algebra
